@@ -75,7 +75,7 @@ Trabalho especial e muito gratificante.
 Idiomas
 
 ##Inglês
-### Bom nível de leitura e escrita. 
+## Bom nível de leitura e escrita. 
 
 
 
