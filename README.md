@@ -9,6 +9,10 @@ Integração com API's terceiras com sistema MV.
 Geração de relatório e view especificas para alimentar B.I e outras necessidades;
 Avaliação de erros, necessidades internas e acompanhamento de processos e módulos diversos do MV (Faturamento, Internação, Imagem, Laboratório, Farmácia e outros)
 
+Banco de dados: Oracle, Mysql.
+
+Frameworks PHP: Codeignter.
+
 ##Analista de Sistemas
 ###Unimed Volta Redonda
 abril de 2013 – junho de 2015 (2 anos 3 meses)Volta Redonda e Região, Brasil
