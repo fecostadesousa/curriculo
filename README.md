@@ -11,7 +11,9 @@ Avaliação de erros, necessidades internas e acompanhamento de processos e mód
 
 Banco de dados: Oracle, Mysql.
 
-Frameworks PHP: Codeignter.
+Frameworks PHP: Codeignter, CakePHP.
+
+Metodologia ágil: Scrum, Kanban.
 
 ##Analista de Sistemas
 ###Unimed Volta Redonda
