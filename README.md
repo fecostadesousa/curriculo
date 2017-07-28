@@ -5,7 +5,7 @@
 ### CRIAR - SISTEMAS INTELIGENTES
 outubro de 2016 – até o momento Ribeirão Preto e Região, Brasil
 
-Desenvolvimento Sistemas WEB para Monitoramento de aulas teóricas e prátikas Detran.
+Desenvolvimento Sistemas WEB para Monitoramento de aulas teóricas e práticas Detran DF, GO, SE, AL, BA.
 Integração com API's terceiras Detran.
 
 Geração de relatório e view especificas para alimentar B.I e outras necessidades;
