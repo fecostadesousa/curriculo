@@ -21,7 +21,7 @@ Metodologia ágil: Scrum, Kanban.
 ### GeekInc
 julho de 2016 – até outubro de 2016 Rio de Janeiro e Região, Brasil
 
-Desenvolvimento de sistemas e sites institucionais, assim como participaço em startup.
+Desenvolvimento de sistemas e sites institucionais, assim como participação em startup.
 
 Frameworks PHP: Codeignter, CakePHP, symfony.
 
