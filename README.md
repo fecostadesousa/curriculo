@@ -107,7 +107,6 @@ agosto de 2013 – até o momento (2 anos 6 meses)Serviços sociais
 ## Trabalho como voluntário na banda UNISOM, formada por integrantes da empresa.
 Levamos música para os hospitalizados.
 Trabalho especial e muito gratificante.
-Idiomas
 
 ## Inglês
 Bom nível de leitura e escrita. 
