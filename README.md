@@ -5,12 +5,18 @@
 ### CRIAR - SISTEMAS INTELIGENTES
 outubro de 2016 – até o momento Ribeirão Preto e Região, Brasil
 
+
+Áre de atuação : Front-end, Tableless, HTML5, CSS, jQuery, VueJS, Cross-browser, Responsive design, Bootstrap, Materialize.
+
 Desenvolvimento Sistemas WEB para Monitoramento de aulas teóricas e práticas Detran DF, GO, SE, AL, BA.
 Integração com API's terceiras Detran.
 
 Geração de relatório e view especificas para alimentar B.I e outras necessidades;
 Avaliação de erros, necessidades internas e acompanhamento de processos.
 Banco de dados:  Mysql.
+
+
+
 
 Frameworks PHP: Codeignter, CakePHP.
 
