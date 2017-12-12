@@ -3,12 +3,12 @@
 ## (16)98867-4147
 ## fecostadesousa@gmail.com
 
-#Área de interesse:
-Front End:
-VueJS, Angular, Twitter Bootstrap, Materialize, HTML5, CSS, jQuery, SASS;
-Transcrição arquivos PSD para HTML;
-Automatização. (Gulp, Grunt)
-Template Engines (mustache, ejs, pug);
+# Área de interesse:
+## Front End:
+### VueJS, Angular, Twitter Bootstrap, Materialize, HTML5, CSS, jQuery, SASS;
+### Transcrição arquivos PSD para HTML;
+### Automatização. (Gulp, Grunt)
+### Template Engines (mustache, ejs, pug);
 
 
 # Experiência
